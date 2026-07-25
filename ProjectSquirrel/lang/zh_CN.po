@@ -2882,7 +2882,7 @@ msgid ""
 "corporate accountants simply record the rupture of a pilot’s internal organs "
 "as “acceptable operational losses” if this brute-force thrust can break "
 "through enemy defenses."
-msgstr "这是一种不人道的推进系统，通过向后引导反重力素的不稳定排斥场产生巨大加速度。按下点火开关瞬间，一股致命引力"
+msgstr "这是一种不人道的推进系统，通过将反重力素不稳定的排斥场向后引导来产生巨大加速度。按下点火开关的瞬间，一股足以粉碎靠背的致命引力加速度便直冲驾驶员的脊柱而来。然而，只要这种蛮力推进能突破敌方防线，企业会计们便会把驾驶员内脏破裂轻描淡写地记为“可接受的运营损耗”。"
 
 #: .\items\advtech\sq_vehicle_part.json
 msgid "external anti-gravity thruster"
