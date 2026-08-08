@@ -9597,3 +9597,8 @@ msgstr "一种特殊的诱变血清，旨在赋予你单一突变。这款血清
 msgid "army jacket"
 msgid_plural "army jacket"
 msgstr[0] "军装夹克"
+
+#: .\items\item_common\sq_armor_override.json
+msgid "salvaged power armor"
+msgid_plural "salvaged power armors"
+msgstr[0] "回收的动力装甲"
