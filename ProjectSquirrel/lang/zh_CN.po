@@ -825,7 +825,7 @@ msgid ""
 "Your only hope? Wait for the brief lull after it unleashes its cold, pack "
 "the thickest thermal armor you can find, and smash its skull in melee. Do "
 "not cower. Hesitation means death.'"
-msgstr "一张在冻僵尸体上匆忙写就的纸条。上面写着：\\\\n\\\\n回去吧。不死龙沉睡着，在这冰冻地狱的深渊中。狭窄漆黑的洞穴让远程战斗毫无可能。如果你想保持距离，它的霜火吐息会将你化为灰烬。不要贴着墙壁——吐息会在岩石上碎裂，冰片弹片会把你撕碎。如果你靠得太近，它的暴风雪会将你冻结凝固。你唯一的机会？等到它释放寒冷之后的短暂停顿，穿上最厚实的隔热装甲，在近战中砸碎它的头颅。不要退缩。犹豫意味着死亡。"
+msgstr "一张在冻僵尸体上匆忙写就的纸条。上面写着：回去吧。不死龙沉睡着，在这冰冻地狱的深渊中。狭窄漆黑的洞穴让远程战斗毫无可能。如果你想保持距离，它的霜火吐息会将你化为灰烬。不要贴着墙壁——吐息会在岩石上碎裂，冰片弹片会把你撕碎。如果你靠得太近，它的暴风雪会将你冻结凝固。你唯一的机会？等到它释放寒冷之后的短暂停顿，穿上最厚实的隔热装甲，在近战中砸碎它的头颅。不要退缩。犹豫意味着死亡。"
 
 
 
@@ -1772,7 +1772,7 @@ msgid ""
 "This overclocked firearm attachment transforms your weapon from a gun "
 "chamber to a thermochemical cannon, dramatically increasing its damage "
 "output, but also making it more power hungry and heavier."
-msgstr "警告！\\\\n该工具可能损坏你的枪械！\\\\n使用风险自负！\\\\n超载电磁炮扩展模块，简称ORGE，是对电磁弹丸加速器(EPA)模块的怪兽级过度改装。这个超频枪械附件将你的武器从枪膛变为热化学炮，大幅提升伤害输出，但也使其更耗电更沉重。"
+msgstr "警告！该工具可能损坏你的枪械！使用风险自负！超载电磁炮扩展模块，简称ORGE，是对电磁弹丸加速器(EPA)模块的怪兽级过度改装。这个超频枪械附件将你的武器从枪膛变为热化学炮，大幅提升伤害输出，但也使其更耗电更沉重。"
 
 #: .\items\advtech\sq_hardlight_fusion_and_gunmods.json
 msgid "advanced noise suppressor"
@@ -4513,7 +4513,7 @@ msgid ""
 "Eenie, meenie, miney, moe. \n"
 "A wooden bat with barbed wire coiled around it, it's blood-coated and rusted "
 "in places, but you sense an unknown power in this weapon."
-msgstr "点兵点将，点到谁，谁倒霉。\\\\n一根缠绕着带刺铁丝网的木制球棒，沾满血迹且多处生锈，但你能感受到这件武器中蕴含的未知力量。"
+msgstr "点兵点将，点到谁，谁倒霉。一根缠绕着带刺铁丝网的木制球棒，沾满血迹且多处生锈，但你能感受到这件武器中蕴含的未知力量。"
 
 #: .\items\item_common\sq_unrand.json
 msgid "Chi no Arashi"
@@ -4526,7 +4526,7 @@ msgid ""
 "Wielded Blade\n"
 "Rushing through the storm\n"
 "blood spattered."
-msgstr "挥刃\\\\n穿行于风暴中\\\\n血花飞溅。"
+msgstr "挥刃\n穿行于风暴中\n血花飞溅。"
 
 #: .\items\item_common\sq_unrand.json
 msgid "Hi no Arashi"
@@ -4541,7 +4541,7 @@ msgid ""
 "Fire and Sword\n"
 "With gas flames rushing\n"
 "to burn the enemy"
-msgstr "火与剑\\\\n燃气火焰奔涌\\\\n焚灭敌人"
+msgstr "火与剑\n燃气火焰奔涌\n焚灭敌人"
 
 
 
@@ -4553,7 +4553,7 @@ msgid ""
 "Wrath of the Sun\n"
 "When you press the (a)\n"
 "Gas Lock"
-msgstr "烈日之怒\\\\n按下(a)键时\\\\n燃气锁定"
+msgstr "烈日之怒\n按下 (a) 时\n燃气锁定"
 
 #: .\items\item_common\sq_unrand.json
 msgid "Ryu Ichimonji"
